@@ -1,5 +1,7 @@
 # allocations
 
+mooo
+
 `allocations` assigns CAT workers to jobs using the assignment problem described in the COMP0233 pre-reading material.
 
 The package reads worker ability files in `.wkab` JSON format, builds an assignment matrix for a chosen penalty metric, solves the assignment, and writes `.catal` YAML-style allocation files.
